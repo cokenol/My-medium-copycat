@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Montserrat:ital,wght@0,300;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
 
 body{
   font-family: "Lora", serif;
   font-size: 18px;
-  font-weight: lighter;
+  font-weight: light;
   line-height: 1.6;
   margin: 0;
+  color: #494949;
 }
 .banner{
   background-image: url(https://picsum.photos/1000/500);
@@ -41,6 +42,7 @@ a {
   font-style: italic;
   color: #636363;
   text-decoration: none;
+  background-color: #E9FDF0;
 }
 a:hover{
   background: #7DFFB3;
